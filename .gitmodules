@@ -1,0 +1,6 @@
+[submodule "sources/cybersecurity-skills"]
+	path = sources/cybersecurity-skills
+	url = https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git
+[submodule "sources/understand-anything"]
+	path = sources/understand-anything
+	url = https://github.com/Lum1104/Understand-Anything.git
